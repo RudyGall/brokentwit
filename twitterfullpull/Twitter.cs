@@ -23,10 +23,10 @@ namespace twitterfullpull
             this.AccessTokenSecret = accessTokenSecret;
         }
 
-        public string ConsumerKey = "ZKQO3mOrtZSvgD0YPDnyZ4iOf";
-        public string ConsumerKeySecret = "NNvgVh8sFBEroWqk3gPF775hTQ3mNGtBNQhdrXEX3MIDiub39C";
-        public string AccessToken = "1103777662433144832-5KmCUZbNaQW30Oi9lPkniPLc0WyUJs";
-        public string AccessTokenSecret = "rzqFLMHq03Xg6Tcv7BObSHYUIoEEIgcU4CHVuqNHtKqKe";
+        public string ConsumerKey = "Removed";
+        public string ConsumerKeySecret = "Removed";
+        public string AccessToken = "Removed-Removed";
+        public string AccessTokenSecret = "Removed";
         public string GetMentions(int count)
         {
             string resourceUrl =
